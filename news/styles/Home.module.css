@@ -1,0 +1,38 @@
+.ContentCenter
+{
+    width: 50%;
+    margin: 0 auto;
+    position: absolute;
+    top: 0;
+    left: 25%;
+}
+
+@media(min-width: 2500px){
+  .ContentCenter {
+      width: 32%;
+      margin: 0 auto;
+      position: absolute;
+      top: 0;
+      left: 34%;
+  }
+}
+
+@media(max-width: 767px){
+  .ContentCenter {
+      width: 90%;
+      margin: 0 auto;
+      position: absolute;
+      top: 0;
+      left: 5%;
+  }
+}
+
+@media(max-width: 767px){
+  .ContentCenter {
+      width: 90%;
+      margin: 0 auto;
+      position: absolute;
+      top: 0;
+      left: 5%;
+  }
+}
