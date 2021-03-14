@@ -214,7 +214,6 @@ a {
     min-height: 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-color: red;
 }
 
 
@@ -228,7 +227,6 @@ a {
     min-height: 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-color: red;
 }
 
 @media(max-width: 767px){

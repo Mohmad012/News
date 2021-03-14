@@ -59,8 +59,8 @@ export default function Home() {
       <div className="contentNews">
         <div className="container">
           <div className="BoxPosts">
-            <div className="left "><div></div></div>
-            <div className="right">
+            <div className="left bg-white"><div></div></div>
+            <div className="right bg-white">
               <div></div>
             </div>
           </div>
